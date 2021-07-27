@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ManageUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StorageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserCartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

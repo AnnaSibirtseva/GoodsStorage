@@ -1,0 +1,70 @@
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.exe
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.deps.json
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.runtimeconfig.json
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.runtimeconfig.dev.json
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.dll
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.pdb
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csprojAssemblyReference.cache
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.Properties.Resources.resources
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.StorageForm.resources
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.GenerateResource.cache
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.AssemblyInfoInputs.cache
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.AssemblyInfo.cs
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.dll
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.pdb
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.genruntimeconfig.cache
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.NewFolder.resources
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.NewItem.resources
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.CoreCompileInputs.cache
+C:\Users\anias\source\repos\GoodsStorage\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.CopyComplete
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.exe
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.deps.json
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.runtimeconfig.json
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.runtimeconfig.dev.json
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.dll
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.pdb
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csprojAssemblyReference.cache
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.NewFolder.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.NewItem.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.Properties.Resources.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.StartForm.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.StorageForm.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.UserForm.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.GenerateResource.cache
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.AssemblyInfoInputs.cache
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.AssemblyInfo.cs
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.CoreCompileInputs.cache
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.CopyComplete
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.dll
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.pdb
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.genruntimeconfig.cache
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.ShopForm.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.UserCartForm.resources
+C:\Users\anias\OneDrive\Рабочий стол\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.ManageUsersForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.exe
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.deps.json
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.runtimeconfig.json
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.runtimeconfig.dev.json
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.dll
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\GoodsStorage.pdb
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csprojAssemblyReference.cache
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.ManageUsersForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.NewFolder.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.NewItem.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.Properties.Resources.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.ShopForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.StartForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.StorageForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.UserCartForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.UserForm.resources
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.GenerateResource.cache
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.AssemblyInfoInputs.cache
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.AssemblyInfo.cs
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.CoreCompileInputs.cache
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.csproj.CopyComplete
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.dll
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.pdb
+C:\Users\anias\source\repos\GoodsStorage2.0\GoodsStorage\obj\Debug\netcoreapp3.1\GoodsStorage.genruntimeconfig.cache
